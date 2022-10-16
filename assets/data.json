@@ -1,0 +1,16 @@
+{
+    "chart":{
+        "caption":"Revenue Bulanan",
+        "subCaption":"INF Mart",
+        "xaxisName":"Bulan",
+        "yAxisName":"Revenue(ribu Rp.)",
+        "theme":"fint"
+    },
+    "data":[
+        {"label":"Jan","value":"1000"},
+        {"label":"Feb","value":"2000"},
+        {"label":"Mar","value":"1500"},
+        {"label":"Apr","value":"2500"},
+        {"label":"May","value":"4500"}
+    ]
+}
